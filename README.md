@@ -48,5 +48,5 @@ This Excel-based project analyzes sales data from a fashion retail chain to unco
 
 ---
 ### Full Excel project
-Click [`Excel file`](TAIYE OYENIYI PROJECT WORK.xlsx)
+Click [`Excel file`](`TAIYE OYENIYI PROJECT WORK.xlsx`)
 
