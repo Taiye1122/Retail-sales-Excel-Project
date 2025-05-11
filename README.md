@@ -47,5 +47,6 @@ This Excel-based project analyzes sales data from a fashion retail chain to unco
 - 🧠 Reward top-performing buyers or analyze their strategy  
 
 ---
-
+### Full Excel project
+Click [`Excel file`]()
 
